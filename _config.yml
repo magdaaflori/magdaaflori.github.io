@@ -22,7 +22,7 @@ repository               : "magdaaflori/magdaaflori.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mgd.jpg"
+  avatar           : "profile.png"
   name             : "Magdalena Aflori"
   pronouns         : # example: "she/her"  
   bio              : "Senior Researcher (Grade I), PhD in Physics & Habilitation in Chemistry"
